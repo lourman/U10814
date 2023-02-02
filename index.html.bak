@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<title>W3.CSS</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<body>
+
+<div class="w3-container w3-teal">
+<h1>U10814 - Networking</h1>
+</div>
+
+<div class="w3-row-padding w3-margin-top">
+
+<div class="w3-third">
+<div class="w3-card">
+<img src="earth-ga61c161f3_640.jpg" style="width:100%">
+<div class="w3-container">
+<a target="_blank" href="https://slides.com/alexioslouridas/minimal-aaa246"><h4>Introduction to Networking</h4></a>
+<a href="Introduction-to-NetSim.pdf" target="_blank"><h4>Open Lab 1</h4></a>
+</div>
+</div>
+</div>
+
+</div>
+
+</body>
+</html>
